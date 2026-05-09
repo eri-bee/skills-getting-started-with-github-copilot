@@ -30,7 +30,7 @@ Copilotの[Plan Agent](https://code.visualstudio.com/docs/copilot/agents/plannin
 
 1. **Copilot Chat**パネルを開き、**Plan Agent**に切り替えます。
 
-   <img width="350" alt="image" src="../images/plan-mode-dropdown.png" />
+   <img width="350" alt="image" src="https://github.com/eri-bee/skills-getting-started-with-github-copilot/blob/main/.github/images/plan-mode-dropdown.png?raw=true" />
 
 
 1. 広いプロンプトから始めて、Copilotが詳細を埋める手助けをしてくれます：
@@ -64,7 +64,7 @@ Copilotの[Plan Agent](https://code.visualstudio.com/docs/copilot/agents/plannin
 
 1. 提案された計画を確認し、満足したら**実装を開始**をクリックして**Agentモード**に引き渡します。
 
-   <img width="350" alt="image" src="../images/plan-mode-start-implementation.png" />
+   <img width="350" alt="image" src="https://github.com/eri-bee/skills-getting-started-with-github-copilot/blob/main/.github/images/plan-mode-start-implementation.png?raw=true" />
 
    ボタンをクリックすると**Plan**から**Agentモード**に切り替わることに注意してください。この時点から、Copilotは以前と同様にコードベースを編集できます。
 

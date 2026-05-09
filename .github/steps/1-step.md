@@ -4,11 +4,11 @@
 
 このエクササイズでは、Mergington高校の生徒が課外活動に登録できるウェブサイトを作業するために、さまざまなGitHub Copilotの機能を使用します。 🎻 ⚽️ ♟️
 
-<img width="600" alt="Mergington High School WebAppのスクリーンショット" src="../images/mergington-high-school-webapp.png" />
+<img width="600" alt="Mergington High School WebAppのスクリーンショット" src="https://github.com/eri-bee/skills-getting-started-with-github-copilot/blob/main/.github/images/mergington-high-school-webapp.png?raw=true" />
 
 ### 📖 理論: GitHub Copilotについて知ろう
 
-<img width="150" align="right" alt="Copilotロゴ" src="../images/copilot-logo.png" />
+<img width="150" align="right" alt="Copilotロゴ" src="https://github.com/eri-bee/skills-getting-started-with-github-copilot/blob/main/.github/images/copilot-logo.png?raw=true" />
 
 GitHub Copilotは、AIコーディングアシスタントであり、より少ない労力でコードを速く書けるようにサポートします。これにより、問題解決とコラボレーションにより多くのエネルギーを注げます。
 
@@ -47,19 +47,19 @@ IDEで作業する際、GitHub Copilotと最もよく対話する方法は次の
 
 1. 左サイドバーで、拡張機能タブをクリックして、`GitHub Copilot`と`Python`の拡張機能がインストールされて有効になっていることを確認します。
 
-   <img width="350" alt="VS Code用GitHub Copilot拡張機能" src="../images/copilot-extension-vscode.png" />
+   <img width="350" alt="VS Code用GitHub Copilot拡張機能" src="https://github.com/eri-bee/skills-getting-started-with-github-copilot/blob/main/.github/images/copilot-extension-vscode.png?raw=true" />
 
-   <img width="350" alt="VS Code用Python拡張機能" src="../images/python-extension-vscode.png" />
+   <img width="350" alt="VS Code用Python拡張機能" src="https://github.com/eri-bee/skills-getting-started-with-github-copilot/blob/main/.github/images/python-extension-vscode.png?raw=true" />
 
 1. VS Codeの上部で、**チャット切り替えアイコン**を見つけてクリックし、Copilot Chatのサイドパネルを開きます。
 
-   <img width="150" alt="image" src="../images/toggle-chat-icon.png" />
+   <img width="150" alt="image" src="https://github.com/eri-bee/skills-getting-started-with-github-copilot/blob/main/.github/images/toggle-chat-icon.png?raw=true" />
 
    > 🪧 **注意:** GitHub Copilotを初めて使用する場合、続けるには利用規約に同意する必要があります。
 
 1. 最初の対話のために**Askモード**になっていることを確認します
 
-   <img width="350" alt="Copilot ChatでAskモードを選択したスクリーンショット" src="../images/ask-mode-selection.png" />
+   <img width="350" alt="Copilot ChatでAskモードを選択したスクリーンショット" src="https://github.com/eri-bee/skills-getting-started-with-github-copilot/blob/main/.github/images/ask-mode-selection.png?raw=true" />
 
 1. 以下のプロンプトを入力して、Copilotにプロジェクトを紹介してもらいます。
 
@@ -74,13 +74,13 @@ IDEで作業する際、GitHub Copilotと最もよく対話する方法は次の
 
 1. プロジェクトについて少し知ったところで、実際に実行してみましょう！左サイドバーで`実行とデバッグ`タブを選択し、**デバッグ開始**アイコンを押します。
 
-   <img width="300" alt="image" src="../images/run-and-debug-tab.png" />
+   <img width="300" alt="image" src="https://github.com/eri-bee/skills-getting-started-with-github-copilot/blob/main/.github/images/run-and-debug-tab.png?raw=true" />
 
 1. ブラウザでウェブページが実行されるのを確認したいので、URLとポートを見つけましょう。表示されていない場合は、下部のパネルを展開して**ポート**タブを選択します。
 
 1. リストの中からポート`8000`と関連するリンクを見つけます。リンクにホバーして**ブラウザで開く**アイコンを選択します。
 
-   ![image](../images/open-in-browser-icon.png)
+   ![image](https://github.com/eri-bee/skills-getting-started-with-github-copilot/blob/main/.github/images/open-in-browser-icon.png?raw=true)
 
 ### :keyboard: アクティビティ: ターミナルコマンドを思い出すためにCopilotを使う 🙋
 

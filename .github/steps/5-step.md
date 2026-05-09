@@ -29,11 +29,11 @@
 
 1. （オプション）PRの説明ツールバーで**Copilot**アイコンと**Summary**アクションをクリックします。しばらくすると、Copilotがあなたの変更に基づいた説明を追加します。 :memo:
 
-   <img alt="Copilot要約ボタン" width="450px" src="../images/copilot-summarize-button.png">
+   <img alt="Copilot要約ボタン" width="450px" src="https://github.com/eri-bee/skills-getting-started-with-github-copilot/blob/main/.github/images/copilot-summarize-button.png?raw=true">
 
 1. （オプション）右側の情報パネル上部にある**レビュアー**セクションを見つけ、**Copilotアイコン**の隣にある**リクエスト**ボタンをクリックします。Copilotがあなたのpull requestにレビューコメントを追加するまでしばらく待ちます！
 
-   <img alt="Copilotレビューボタン" width="300px" src="../images/copilot-review-button.png">
+   <img alt="Copilotレビューボタン" width="300px" src="https://github.com/eri-bee/skills-getting-started-with-github-copilot/blob/main/.github/images/copilot-review-button.png?raw=true">
 
    > 💡 **ヒント:** Copilotがレビューのためにリクエストされたログエントリに注目してください。
 

@@ -38,7 +38,7 @@ Copilotを使って、各活動の下に登録済み学生を表示するよう�
 
 1. Copilot Chatウィンドウの下部でドロップダウンを使って**Agent**モードに切り替えます。
 
-   <img width="350" alt="image" src="../images/agent-mode-dropdown.png" />
+   <img width="350" alt="image" src="https://github.com/eri-bee/skills-getting-started-with-github-copilot/blob/main/.github/images/agent-mode-dropdown.png?raw=true" />
 
 1. ウェブページに関連するファイルを開き、各エディターウィンドウ（またはファイル）をチャットパネルにドラッグして、Copilotがそれらをコンテキストとして使用するよう指示します。
 
@@ -48,7 +48,7 @@ Copilotを使って、各活動の下に登録済み学生を表示するよう�
 
    > 🪧 **注意:** ファイルをコンテキストとして追加することはオプションです。これを省略しても、Copilot Agentモードは`#codebase`のようなツールを使ってプロンプトから関連ファイルを検索できます。特定のファイルを追加することで、Copilotを正しい方向に導きます。これは大規模なコードベースで特に役立ちます。
 
-   <img width="400" alt="コンテキストに追加されたファイルを示す画像" src="../images/files-added-to-context.png" />
+   <img width="400" alt="コンテキストに追加されたファイルを示す画像" src="https://github.com/eri-bee/skills-getting-started-with-github-copilot/blob/main/.github/images/files-added-to-context.png?raw=true" />
 
    > 💡 **ヒント:** **Add Context...**ボタンを使って、GitHubのIssueやターミナルウィンドウの結果など、他のコンテキストアイテムのソースを提供することもできます。
 
@@ -66,14 +66,14 @@ Copilotを使って、各活動の下に登録済み学生を表示するよう�
 
    以下に示す**Keep**ボタンを使って、すべての変更を承認/破棄するか、変更を一つずつ確認して決定することができます。これはチャットパネルビューからでも、各編集されたファイルを検査しながらでも行えます。
 
-      <img width="900" alt="変更を保持または破棄するボタン" src="../images/review-changes-buttons.png" />
+      <img width="900" alt="変更を保持または破棄するボタン" src="https://github.com/eri-bee/skills-getting-started-with-github-copilot/blob/main/.github/images/review-changes-buttons.png?raw=true" />
 
 
 1. 単純に変更を承認する前に、ウェブサイトを再確認して、すべてが期待どおりに更新されていることを確認してください。
    
    更新された活動カードの例を示します。アプリを再起動するかページを更新する必要があるかもしれません。
 
-   <img width="350" alt="参加者情報が表示された活動カード" src="../images/activity-card-with-participants.png" />
+   <img width="350" alt="参加者情報が表示された活動カード" src="https://github.com/eri-bee/skills-getting-started-with-github-copilot/blob/main/.github/images/activity-card-with-participants.png?raw=true" />
 
    > 🪧 **注意:** あなたの活動カードは異なって見えるかもしれません。Copilotは常に同じ結果を生成するわけではありません。
 
@@ -99,11 +99,11 @@ Copilotを使って、各活動の下に登録済み学生を表示するよう�
 
 1. Copilotがまだ**Agent**モードであることを確認します。
 
-   <img width="250" alt="Agentモード" src="../images/agent-mode-dropdown.png" />
+   <img width="250" alt="Agentモード" src="https://github.com/eri-bee/skills-getting-started-with-github-copilot/blob/main/.github/images/agent-mode-dropdown.png?raw=true" />
 
 1. **ツール**アイコンをクリックして、Copilot Agentモードで現在利用可能なすべてのツールを探索します。
 
-   <img width="250"  alt="ツールアイコン" src="../images/tools-icon.png" />
+   <img width="250"  alt="ツールアイコン" src="https://github.com/eri-bee/skills-getting-started-with-github-copilot/blob/main/.github/images/tools-icon.png?raw=true" />
 
 1. テストをする時です！Copilotに参加者を削除する機能を追加するよう頼みます。
 

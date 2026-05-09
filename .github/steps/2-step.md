@@ -50,7 +50,7 @@
       # Validate student is not already signed up
       ```
 
-      <img width="700" alt="エディタでのCopilotシャドーテキストサジェスト" src="../images/shadow-text.gif" />
+      <img width="700" alt="エディタでのCopilotシャドーテキストサジェスト" src="https://github.com/eri-bee/skills-getting-started-with-github-copilot/blob/main/.github/images/shadow-text.gif?raw=true" />
 
    1. `Tab`キーを押してCopilotのサジェストを承認し、シャドーテキストをコードに変換します。
 
@@ -91,7 +91,7 @@
 
 1. 辞書の先頭から末尾までマウスでクリック＆ドラッグして、`activities`辞書全体を選択します。これにより、次のプロンプトのためのコンテキストをCopilotに提供します。
 
-   <img width="700" alt="インラインチャットを開く前にハイライトされたactivities辞書" src="../images/activities-dict-highlighted.png" />
+   <img width="700" alt="インラインチャットを開く前にハイライトされたactivities辞書" src="https://github.com/eri-bee/skills-getting-started-with-github-copilot/blob/main/.github/images/activities-dict-highlighted.png?raw=true" />
 
 
 1. キーボードコマンド`Ctrl + I`（Windows）または`Cmd + I`（Mac）を使ってCopilotのインラインチャットを呼び出します。
@@ -188,7 +188,7 @@
 
 1. `app.py`ファイルを見つけて`+`記号を押し、変更をステージングエリアにまとめます。
 
-   ![image](../images/staging-changes-icon.png)
+   ![image](https://github.com/eri-bee/skills-getting-started-with-github-copilot/blob/main/.github/images/staging-changes-icon.png?raw=true)
 
 1. ステージングされた変更のリストの上にある**メッセージ**テキストボックスを見つけますが、今は**何も入力しないで**ください。
    - 通常はここに変更の短い説明を書きますが、今はCopilotに手伝ってもらいます！
